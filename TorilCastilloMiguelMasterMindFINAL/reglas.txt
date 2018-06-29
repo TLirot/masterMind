@@ -1,0 +1,17 @@
+Mastermind.
+
+En este juego, el jugador deberá adivinar la combinación elegida al azar por la máquina.
+
+La maquina eligirá 4 colores, y los pondrá en un orden concreto de izquierda a derecha.
+
+Hay dos modos de juego.
+
+    - Sin repetición: La máquina no eligirá colores repetidos.
+    - Con repetición: La máquina eligirá colores repetidos. (Mayor dificultad).
+
+Por cada color acertado (por intento), SIN su posición. Las fichas amarillas de la izquierda cambiarán su color a negro.
+Por cada color acertado (por intento), CON su posicion. Las fichas amarillas de la izquierda cambiarán su color a blanco.
+
+Asi el jugador a base de intentos y de los aciertos previos, tendrá que adivinar en un máximo de 10 intentos la combinación secreta.
+
+Para empezar a jugar basta con clicar una vez en alguno de los dos botones con los modos de juego y a convertirse en una MENTE MAESTRA!
